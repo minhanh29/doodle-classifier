@@ -16,8 +16,8 @@ Currently available objects: **basketball, door, and snow**
 
 ### Options
 **Train Model:** Train the model based on the dataset in the data folder (size = 10000). You can click it many times to get a better model.  
-**Save Model:**save the current trained model to my_model.txt  
-**Load Model:**load the model from my_model.txt  
+**Save Model:** save the current trained model to my_model.txt  
+**Load Model:** load the model from my_model.txt  
 **Predict**: predict what is drawn on the canvas (basketball, door, snow)  
 **Clear Screen**: clear the canvas  
 
